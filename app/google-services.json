@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "962805148662",
+    "project_id": "rma-lv1",
+    "storage_bucket": "rma-lv1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962805148662:android:3d74accfca96041782f5d7",
+        "android_client_info": {
+          "package_name": "com.example.mobile_lv1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiphqVpTlnT7nLdrml4dSgoZZduZqysCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
